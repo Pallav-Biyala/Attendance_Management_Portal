@@ -52,6 +52,3 @@ The system supports:
 
 ---
 
-
-   ```bash
-   mysql -u root -p database_name < final_dump.sql
