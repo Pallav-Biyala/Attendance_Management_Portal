@@ -30,6 +30,8 @@ The system supports:
 
 - `member`
 - `student`
+- `teacher`
+- `teacherdepartment`
 - `admin`
 - `department`
 - `course`
